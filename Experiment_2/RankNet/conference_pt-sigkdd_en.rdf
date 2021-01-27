@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">    <Alignment>
+        <xml>yes</xml>
+        <level>0</level>
+        <type>??</type>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0142053-7833089"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3967774-8138616"/>
+                    <measure rdf:datatype="xsd:float">0.4784013595789999
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0194763-7750089"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5988514-6350175"/>
+                    <measure rdf:datatype="xsd:float">0.4781923817180716
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0521046-8825392"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7287097-6354392"/>
+                    <measure rdf:datatype="xsd:float">0.4778508448007988
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0580584-4727838"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5243564-3002269"/>
+                    <measure rdf:datatype="xsd:float">0.4779286106236713
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0636788-7783338"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5937062-8520809"/>
+                    <measure rdf:datatype="xsd:float">0.4778819710387087
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0752658-7194504"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4095132-8928036"/>
+                    <measure rdf:datatype="xsd:float">0.4782533303265864
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0965217-5999314"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5268789-8381535"/>
+                    <measure rdf:datatype="xsd:float">0.4784270777788817
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-0995481-1004270"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4834530-8825541"/>
+                    <measure rdf:datatype="xsd:float">0.478208793162969
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-1361720-1971691"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6792972-5439604"/>
+                    <measure rdf:datatype="xsd:float">0.4783342233665602
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-1396929-8518371"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4512427-8358882"/>
+                    <measure rdf:datatype="xsd:float">0.4782421970609739
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-1574199-5632855"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3967774-8138616"/>
+                    <measure rdf:datatype="xsd:float">0.4785699123774298
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-1586753-7620287"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7357680-6909888"/>
+                    <measure rdf:datatype="xsd:float">0.4779753261409734
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-1655999-0944504"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7357680-6909888"/>
+                    <measure rdf:datatype="xsd:float">0.4780180735442393
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2014336-5772827"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-1144746-3205183"/>
+                    <measure rdf:datatype="xsd:float">0.4779928604302545
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2322954-2524648"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5937062-8520809"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2323532-5960959"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7201186-4592712"/>
+                    <measure rdf:datatype="xsd:float">0.4778935035539151
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2385393-4187759"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6792972-5439604"/>
+                    <measure rdf:datatype="xsd:float">0.4779045292651102
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2411892-8382849"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7201186-4592712"/>
+                    <measure rdf:datatype="xsd:float">0.4781005806110681
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2460278-9171533"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6792972-5439604"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2512895-3704533"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.47814979521657897
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2651900-7539880"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-8570424-4038182"/>
+                    <measure rdf:datatype="xsd:float">0.4781662123951051
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2731174-4953406"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2288341-0956338"/>
+                    <measure rdf:datatype="xsd:float">0.4780200059366947
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2830247-2307258"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6792972-5439604"/>
+                    <measure rdf:datatype="xsd:float">0.4778783901199758
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-2916450-1172722"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2288341-0956338"/>
+                    <measure rdf:datatype="xsd:float">0.4786948179567416
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3133310-0373525"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2288341-0956338"/>
+                    <measure rdf:datatype="xsd:float">0.4783744503917387
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3349612-0579071"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-1615562-8494578"/>
+                    <measure rdf:datatype="xsd:float">0.4778660167609832
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3432072-7674823"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3661201-8652994"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3501542-5501483"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2971568-4653657"/>
+                    <measure rdf:datatype="xsd:float">0.4781075650966554
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3562114-2690286"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2971568-4653657"/>
+                    <measure rdf:datatype="xsd:float">0.4780473719417791
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-3934491-2726223"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-1144746-3205183"/>
+                    <measure rdf:datatype="xsd:float">0.4782368779710202
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-4055474-3932181"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4780412873164539
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-4286931-7249154"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-2971568-4653657"/>
+                    <measure rdf:datatype="xsd:float">0.4778546903631402
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-4357948-6662606"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7201186-4592712"/>
+                    <measure rdf:datatype="xsd:float">0.4778923576379375
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-4506031-1464457"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7201186-4592712"/>
+                    <measure rdf:datatype="xsd:float">0.4781207513897714
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-5406961-0518160"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-8492343-3188887"/>
+                    <measure rdf:datatype="xsd:float">0.4778607091936141
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-5562536-2141807"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-1350325-0780321"/>
+                    <measure rdf:datatype="xsd:float">0.478117533489252
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-5562537-5590711"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-1214605-4064522"/>
+                    <measure rdf:datatype="xsd:float">0.4779265088274009
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-5569095-8153938"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4095132-8928036"/>
+                    <measure rdf:datatype="xsd:float">0.4782533303265864
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-5671757-2439766"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5988514-6350175"/>
+                    <measure rdf:datatype="xsd:float">0.4782219427100301
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6123980-7251265"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3661201-8652994"/>
+                    <measure rdf:datatype="xsd:float">0.4790135553979985
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6156245-3934834"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4834530-8825541"/>
+                    <measure rdf:datatype="xsd:float">0.4789667819123332
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6359705-0314325"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7201186-4592712"/>
+                    <measure rdf:datatype="xsd:float">0.4778798957817392
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6499046-9989619"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7357680-6909888"/>
+                    <measure rdf:datatype="xsd:float">0.4779753261409734
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6652642-5937002"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4783638936498971
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-6953648-1088311"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4779667002156425
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7112295-1426438"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4956507-8354862"/>
+                    <measure rdf:datatype="xsd:float">0.4786251598540729
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7323217-1932398"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4956507-8354862"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7369326-4687048"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4779596324845944
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7377495-6196534"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4780840777044401
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7504117-3604801"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-7909190-7180764"/>
+                    <measure rdf:datatype="xsd:float">0.4779015886290249
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7541234-2628212"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5988514-6350175"/>
+                    <measure rdf:datatype="xsd:float">0.4783214592656453
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7651460-6611757"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3800373-8198658"/>
+                    <measure rdf:datatype="xsd:float">0.4779319751222684
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-7993609-8528216"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3967774-8138616"/>
+                    <measure rdf:datatype="xsd:float">0.4783989596844766
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-8000530-0228781"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3967774-8138616"/>
+                    <measure rdf:datatype="xsd:float">0.478479516780316
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-8549844-9843347"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-6356419-4596819"/>
+                    <measure rdf:datatype="xsd:float">0.4781992222263128
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-8663493-5262956"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-3967774-8138616"/>
+                    <measure rdf:datatype="xsd:float">0.4783672501101419
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-8782693-5434495"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5031073-5159430"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-9337517-0542404"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-4095132-8928036"/>
+                    <measure rdf:datatype="xsd:float">0.4782533303265864
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#c-9529634-8444770"/>
+                    <entity2 rdf:resource="http://sigkdd_en#c-5031073-5159430"/>
+                    <measure rdf:datatype="xsd:float">0.4784820825843679
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-0209104-5589270"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4016118-2436545"/>
+                    <measure rdf:datatype="xsd:float">0.4782976206451458
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-0439667-9780550"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4016118-2436545"/>
+                    <measure rdf:datatype="xsd:float">0.4781421613273312
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-0605793-4932704"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4784507989562379
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-0885133-8161663"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4588680-8309474"/>
+                    <measure rdf:datatype="xsd:float">0.4780014826835475
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-1009050-6478288"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-0035096-2402503"/>
+                    <measure rdf:datatype="xsd:float">0.4780748435857584
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-1946695-4689150"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-6795922-7675825"/>
+                    <measure rdf:datatype="xsd:float">0.4783649713701272
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-3335498-3785735"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-5788630-0787234"/>
+                    <measure rdf:datatype="xsd:float">0.4778579648282014
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-3826594-1863407"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-5258086-9094070"/>
+                    <measure rdf:datatype="xsd:float">0.4780931725649978
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-4428150-4569022"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4784141924996557
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-5816114-5648217"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.4780611036375764
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-6192360-7399080"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-6221415-9781699"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4780102975685512
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-6896304-8850940"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4334834-0139494"/>
+                    <measure rdf:datatype="xsd:float">0.4781323855375366
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-7573727-4734817"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-5788630-0787234"/>
+                    <measure rdf:datatype="xsd:float">0.4777510210062527
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-7882230-8750696"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-1986890-7846167"/>
+                    <measure rdf:datatype="xsd:float">0.4779895690862992
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-8503157-3234564"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-5985310-3715518"/>
+                    <measure rdf:datatype="xsd:float">0.4778757893993915
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-8641208-5095031"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-1929902-8457454"/>
+                    <measure rdf:datatype="xsd:float">0.4778044879803042
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#ent-9807357-8444675"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.4780652982785727
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-0078614-6300519"/>
+                    <entity2 rdf:resource="http://rdf_schema#label"/>
+                    <measure rdf:datatype="xsd:float">0.4778439026216211
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-0753538-5312849"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-5985310-3715518"/>
+                    <measure rdf:datatype="xsd:float">0.4781925565532586
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-0825438-7865051"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4440329-9009612"/>
+                    <measure rdf:datatype="xsd:float">0.4780412462218025
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1111442-0158577"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4524643-0591579"/>
+                    <measure rdf:datatype="xsd:float">0.4780319432249824
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1161708-7681600"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4780861269881593
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1209729-5489509"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.4779051023588889
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1433156-7892882"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-2375537-3899257"/>
+                    <measure rdf:datatype="xsd:float">0.4782077007705733
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1566668-3595303"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4780007110306792
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1621851-5740350"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4524643-0591579"/>
+                    <measure rdf:datatype="xsd:float">0.4778083617995857
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1729722-3188280"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-1255069-8857146"/>
+                    <measure rdf:datatype="xsd:float">0.4781589476992196
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1842943-6842682"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.478034208195741
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-1964262-1119973"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-7781882-8225488"/>
+                    <measure rdf:datatype="xsd:float">0.4781776092011571
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-2057717-1703934"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4782100874362069
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-2536554-3280905"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4334834-0139494"/>
+                    <measure rdf:datatype="xsd:float">0.4778939582989939
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-2537929-0805226"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4782354229751038
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-3571659-4755175"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4781080893150895
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-3732110-1870302"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-6795922-7675825"/>
+                    <measure rdf:datatype="xsd:float">0.4784132516055892
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-4157848-4912301"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-2375537-3899257"/>
+                    <measure rdf:datatype="xsd:float">0.4780461441275949
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-4262830-4482404"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.4779427783129171
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-4375145-6303250"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4524643-0591579"/>
+                    <measure rdf:datatype="xsd:float">0.4779612418730764
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-4379140-6733995"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-0893463-6791984"/>
+                    <measure rdf:datatype="xsd:float">0.4780176000848484
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-4460510-0521370"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-7781882-8225488"/>
+                    <measure rdf:datatype="xsd:float">0.4780870567857537
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-5399311-2070029"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4016118-2436545"/>
+                    <measure rdf:datatype="xsd:float">0.4780648971507219
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-5789990-5994809"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-0035096-2402503"/>
+                    <measure rdf:datatype="xsd:float">0.4782070010928104
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6148171-6771412"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-1255069-8857146"/>
+                    <measure rdf:datatype="xsd:float">0.4782732842058189
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6362705-1026753"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-0035096-2402503"/>
+                    <measure rdf:datatype="xsd:float">0.4780938599222056
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6578432-1680765"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4780222785759725
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6641246-2669243"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4781235715024042
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6642068-6899342"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-6945476-8980997"/>
+                    <measure rdf:datatype="xsd:float">0.4778234848216054
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6723927-5177673"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-5258086-9094070"/>
+                    <measure rdf:datatype="xsd:float">0.4782192820859983
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6797268-4067258"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4016118-2436545"/>
+                    <measure rdf:datatype="xsd:float">0.4781819359271921
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-6866129-1655371"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-1904903-3191481"/>
+                    <measure rdf:datatype="xsd:float">0.4781171984685848
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-7072792-4984077"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-2375537-3899257"/>
+                    <measure rdf:datatype="xsd:float">0.4782385179470918
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-7272133-5462490"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-5788630-0787234"/>
+                    <measure rdf:datatype="xsd:float">0.4778236843257086
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-7297927-5320216"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-1255069-8857146"/>
+                    <measure rdf:datatype="xsd:float">0.4782911542699838
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8018838-3132796"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4440329-9009612"/>
+                    <measure rdf:datatype="xsd:float">0.4781235400486516
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8035562-5299670"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-1904903-3191481"/>
+                    <measure rdf:datatype="xsd:float">0.477871268809744
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8272242-7487679"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-4408730-1320391"/>
+                    <measure rdf:datatype="xsd:float">0.4780752185135545
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8452496-6063327"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4778648-3039012"/>
+                    <measure rdf:datatype="xsd:float">0.4778853746029788
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8547141-9627067"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4440329-9009612"/>
+                    <measure rdf:datatype="xsd:float">0.478000943321459
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-8571586-2140858"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4440329-9009612"/>
+                    <measure rdf:datatype="xsd:float">0.4777932129715966
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-9032542-3714989"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-8043331-3659734"/>
+                    <measure rdf:datatype="xsd:float">0.4780567390954806
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-9351299-0510966"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-4440329-9009612"/>
+                    <measure rdf:datatype="xsd:float">0.4781782476646223
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-9427872-5793293"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-7781882-8225488"/>
+                    <measure rdf:datatype="xsd:float">0.4782454488584818
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-9458928-7379513"/>
+                    <entity2 rdf:resource="http://sigkdd_en#op-5101248-3088535"/>
+                    <measure rdf:datatype="xsd:float">0.4780144399615501
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://conference_pt#op-9764305-6502830"/>
+                    <entity2 rdf:resource="http://sigkdd_en#ent-2375537-3899257"/>
+                    <measure rdf:datatype="xsd:float">0.4780491352859484
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+        <map>
+            <Cell>
+                    <entity1 rdf:resource="http://rdf_schema#label"/>
+                    <entity2 rdf:resource="http://rdf_schema#label"/>
+                    <measure rdf:datatype="xsd:float">0.4803984966517666
+</measure>
+                    <relation>=</relation>
+            </Cell>
+        </map>
+    </Alignment>
+</rdf:RDF>
